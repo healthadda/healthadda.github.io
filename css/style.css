@@ -83,7 +83,7 @@ html {
   top: 0;
   left: 0;
   background: rgba(0, 0, 0, 0);
-  backdrop-filter: saturate(180%) blur(0px);
+  backdrop-filter: saturate(100%) blur(0px);
   display: flex;
   width: 100%;
   justify-content: space-between;
